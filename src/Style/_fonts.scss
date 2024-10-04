@@ -1,0 +1,25 @@
+@font-face{
+    font-family: EditorNewLight;
+    src: url(../Fonts/5f242a694256f02b944d5767_EditorialNew-Light.ttf)
+}
+
+@font-face {
+    font-family: EditorNewMedium;
+    src: url(../Fonts/61099e9d29b5b66c3799db9a_EditorialNew-Medium.ttf);
+}
+
+@font-face {
+    font-family: Canopee;
+    src: url(../Fonts/616fd1dd00cf6c70f978fc69_Canopee.ttf);
+}
+
+@font-face {
+    font-family: Domaine;
+    src: url(../Fonts/5f242a69b1577e63266b4d72_DomaineDispCondMedium.ttf);
+}
+
+
+$Canopee : Canopee;
+$EditorNewLight : EditorNewLight;
+$EditorNewMedium : EditorNewMedium;
+$Domaine : Domaine;
