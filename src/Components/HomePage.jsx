@@ -123,7 +123,7 @@ const HomePage = () => {
             <div className="big_img top_spacing">
               <div className="container main">
                 <div className="text_content">
-                  <p>INTRACTIVE <hr /> <span>ARTIST!</span> <hr /></p>
+                  <p className='hidden'>INTRACTIVE <hr /> <span>ARTIST!</span> <hr /></p>
                   <img src={img4} alt="img4" />
                   <p className="full_para top_spacing">
                     <span>A</span> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Hi this surjeet cloning this
